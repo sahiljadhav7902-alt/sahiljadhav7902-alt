@@ -5,9 +5,9 @@ Typing SVG
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/surajsarkar0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:connect@browniestudio.io"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/sahil-jadhav-244215349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="s.j0230q@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  
 </p>
 
 ---
@@ -16,10 +16,9 @@ Typing SVG
 
 > I build backend systems that are fast, stable, and easy to maintain. I value simple solutions over clever code, and clear architecture over a long list of tools.
 
-*   **Backend Engineering:** Writing clean microservices and data pipelines. I primarily work with **Python**, **Go**, and **Rust**.
+*   **Backend Engineering:** Writing clean microservices and data pipelines. I primarily work with **node**, **mysql**, and **javascript**.
 *   **Applied AI:** Setting up local AI infrastructure—focusing on LLM inference optimization, RAG, and model quantization.
-*   **Robotics:** Designing structural and control software for autonomous robotic systems.
-
+*   
 ---
 
 ## 🚀 Current Work
@@ -35,9 +34,9 @@ Instead of a wall of flashing badges, here is the core stack I actually use to s
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, Go, Rust, C++ |
-| **Infrastructure** | PostgreSQL, Redis, Docker, gRPC, FastAPI |
-| **AI / Machine Learning** | vLLM, Ollama, PyTorch, LangChain |
+| **Languages** | javascript, node, c, C++ |
+| **Infrastructure** | PostgreSQL, Mysql, Mogodb , RestApi |
+| **AI** | vLLM, Ollama,  |
 
 ---
 
