@@ -65,18 +65,18 @@ Alongside backend engineering, I'm actively exploring AI and LLM technologies to
 
 ## 💻 Tech Stack
 
-| Category           | Technologies                       |
-| ------------------ | ---------------------------------- |
-| Languages          | JavaScript, Java, C, C++           |
-| Frontend           | React.js, HTML5, CSS3, Bootstrap   |
-| Backend            | Node.js, Express.js                |
-| Database           | MySQL, MongoDB                     |
-| Authentication     | JWT, RBAC, Bcrypt                  |
-| APIs               | REST APIs                          |
-| Web Optimization   | SEO, Performance Optimization      |
-| AI                 | Ollama, LLMs, Prompt Engineering   |
-| Tools              | Git, GitHub, Postman               |
-| Currently Learning | Docker, AWS, DevOps, System Design |
+| Category           | Technologies                                   |
+| ------------------ | ---------------------------------------------- |
+| Languages          | JavaScript, Java, C, C++                       |
+| Frontend           | React.js, Tailwind CSS, HTML5, CSS3, Bootstrap |
+| Backend            | Node.js, Express.js                            |
+| Database           | MySQL, MongoDB                                 |
+| Authentication     | JWT, RBAC, Bcrypt                              |
+| APIs               | REST APIs                                      |
+| Web Optimization   | SEO, Performance Optimization                  |
+| AI                 | Ollama, LLMs, Prompt Engineering               |
+| Tools              | Git, GitHub, Postman                           |
+| Currently Learning | Docker, AWS, DevOps, System Design             |
 
 ---
 
